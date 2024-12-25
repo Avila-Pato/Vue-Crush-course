@@ -27,56 +27,55 @@ A lo largo del curso, se cubrirán varios ejemplos prácticos a construir una ap
 
 ### Lo que se ve:
 
-Componentes de Vue
-Configuración del entorno
-Uso de Vue CDN
-Setup con `create-vue`
-Extensiones oficiales de Vue
-Explorando las carpetas y archivos
-Limpiar el boilerplate
-Estructura de componentes
-`data()` e interpolación en la API de Opciones
-Directivas `v-if`, `v-else` y `v-else-if`
-Directiva `v-for` y bucles
-Directiva `v-bind`
-`v-on` Directiva, Eventos y Métodos
-API de Composición - Forma larga
-`ref()` y valores reactivos
-API de Composición - Forma corta
-Formularios y `v-model`
-Eliminar tareas
-Métodos del ciclo de vida
-`onMounted` y obtener datos
-Inicio del proyecto Vue Jobs
-Configuración de Tailwind CSS
-Archivos de tema e imágenes
-Componente Navbar
-Componente Hero
-Props
-Componente HomeCards y contenedor de tarjetas
-Componente JobListings y datos JSON
-Componente JobListing
-Props `limit` de JobListings y `showButton`
-`computed()` y truncar descripciones
-PrimeIcons
-Vue Router y Home View
-Jobs View
-`RouterLink`
-Enlace activo en Navbar
-Página Not Found
-API REST de JSON Server
-Obtener datos para JobListings
-Función `reactive()`
-Refactorización de JobListings con `reactive()`
-Spinner en Vue
-Obtener un solo empleo y mostrar datos
-Componente BackButton
-Proxying
-Página para agregar empleo
-Guardar empleo con POST
-Notificaciones Toast
-Eliminar empleo
-Página de edición
-Obtener empleo para editar
-Actualizar empleo
-Despliegue en Netlify
+- figuración del entorno
+- Uso de Vue CDN
+- Setup con `create-vue`
+- Extensiones oficiales de Vue
+- Explorando las carpetas y archivos
+- Limpiar el boilerplate
+- Estructura de componentes
+- `data()` e interpolación en la API de Opciones
+- Directivas `v-if`, `v-else` y `v-else-if`
+- Directiva `v-for` y bucles
+- Directiva `v-bind`
+- `v-on` Directiva, Eventos y Métodos
+- API de Composición - Forma larga
+- `ref()` y valores reactivos
+- API de Composición - Forma corta
+- Formularios y `v-model`
+- Eliminar tareas
+- Métodos del ciclo de vida
+- `onMounted` y obtener datos
+- Inicio del proyecto Vue Jobs
+- Configuración de Tailwind CSS
+- Archivos de tema e imágenes
+- Componente Navbar
+- Componente Hero
+- Props
+- Componente HomeCards y contenedor de tarjetas
+- Componente JobListings y datos JSON
+- Componente JobListing
+- Props `limit` de JobListings y `showButton`
+- `computed()` y truncar descripciones
+- PrimeIcons
+- Vue Router y Home View
+- Jobs View
+- `RouterLink`
+- Enlace activo en Navbar
+- Página Not Found
+- API REST de JSON Server
+- Obtener datos para JobListings
+- Función `reactive()`
+- Refactorización de JobListings con `reactive()`
+- Spinner en Vue
+- Obtener un solo empleo y mostrar datos
+- Componente BackButton
+- Proxying
+- Página para agregar empleo
+- Guardar empleo con POST
+- Notificaciones Toast
+- Eliminar empleo
+- Página de edición
+- Obtener empleo para editar
+- Actualizar empleo
+- Despliegue en Netlify
