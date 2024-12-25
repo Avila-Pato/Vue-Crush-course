@@ -1,3 +1,19 @@
+<script setup>
+import { defineProps } from 'vue'
+
+// Definiendo Props
+defineProps({
+  title: {
+    type: String,
+    default: 'Flowbite is out! See what’s new',
+  },
+  bigtitle: {
+    type: String,
+    default: 'We invest in the world’s potential',
+  },
+})
+</script>
+
 <template>
   <section class="bg-white dark:bg-gray-900">
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
@@ -7,7 +23,7 @@
         role="alert"
       >
         <span class="text-xs bg-primary-600 rounded-full text-white px-4 py-1.5 mr-3">New</span>
-        <span class="text-sm font-medium">Flowbite is out! See what's new</span>
+        <span class="text-sm font-medium">{{ title }}</span>
         <svg
           class="ml-2 w-5 h-5"
           fill="currentColor"
@@ -24,7 +40,7 @@
       <h1
         class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
       >
-        We invest in the world’s potential
+        {{ bigtitle }}
       </h1>
       <p
         class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400"

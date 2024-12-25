@@ -1,6 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+  content: [
+    './index.html',
+    './src/**/*.{vue,js,ts,jsx,tsx}', // Asegúrate de que las rutas de tus archivos estén aquí
+    './node_modules/flowbite/**/*.js', // Esto es necesario para que Flowbite funcione
+  ],
   theme: {
     extend: {
       colors: {
@@ -20,23 +24,6 @@ export default {
       },
     },
     fontFamily: {
-      body: [
-        'Inter',
-        'ui-sans-serif',
-        'system-ui',
-        '-apple-system',
-        'system-ui',
-        'Segoe UI',
-        'Roboto',
-        'Helvetica Neue',
-        'Arial',
-        'Noto Sans',
-        'sans-serif',
-        'Apple Color Emoji',
-        'Segoe UI Emoji',
-        'Segoe UI Symbol',
-        'Noto Color Emoji',
-      ],
       sans: [
         'Inter',
         'ui-sans-serif',
