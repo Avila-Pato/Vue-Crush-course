@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'TextComponent', // Cambiar el nombre del componente aquí
+  name: 'TextComponent',
   data() {
     return {
       name: 'Jhon Doe',
