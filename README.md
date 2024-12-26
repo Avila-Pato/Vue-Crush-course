@@ -78,4 +78,4 @@ A lo largo del curso, se cubrirán varios ejemplos prácticos a construir una ap
 - Página de edición
 - Obtener empleo para editar
 - Actualizar empleo
-- Despliegue en Netlify
+
