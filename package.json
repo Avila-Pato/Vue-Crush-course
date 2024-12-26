@@ -11,9 +11,13 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "flowbite": "^2.5.2",
-    "flowbite-vue": "^0.1.6",
-    "vue": "^3.5.13"
+    "axios": "^1.7.2",
+    "json-server": "^1.0.0-beta.1",
+    "primeicons": "^7.0.0",
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.0",
+    "vue-spinner": "^1.0.4",
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.14.0",
