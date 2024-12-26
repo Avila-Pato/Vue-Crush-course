@@ -16,7 +16,7 @@ Este curso intensivo cubre los conceptos fundamentales de Vue.js desde lo básic
 8. **Vue Router**: Introducción al enrutamiento en Vue para navegar entre vistas.
 9. **State Management con `reactive()` y `ref()`**: Aprende cómo trabajar con estados reactivos para hacer tus aplicaciones dinámicas.
 10. **API Rest con JSON Server**: Aprende cómo simular una API REST con JSON Server para consumir datos de manera local.
-11. **Despliegue en Netlify**: Aprende cómo desplegar tu aplicación Vue.js en Netlify de manera fácil.
+
 
 ## Estructura del Curso
 
